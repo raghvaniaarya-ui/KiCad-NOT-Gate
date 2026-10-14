@@ -1,0 +1,55 @@
+Plotted to 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-F_Cu.gbr'.
+Plotted to 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-B_Cu.gbr'.
+Plotted to 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-F_Paste.gbr'.
+Plotted to 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-B_Paste.gbr'.
+Plotted to 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-F_Mask.gbr'.
+Plotted to 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-B_Mask.gbr'.
+Plotted to 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-job.gbrjob'.
+Plotted to 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-F_Cu.gbr'.
+Plotted to 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-B_Cu.gbr'.
+Plotted to 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-F_Paste.gbr'.
+Plotted to 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-B_Paste.gbr'.
+Plotted to 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-F_Mask.gbr'.
+Plotted to 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-B_Mask.gbr'.
+Plotted to 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-job.gbrjob'.
+Plotted to 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-F_Cu.gbr'.
+Plotted to 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-B_Cu.gbr'.
+Plotted to 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-F_Paste.gbr'.
+Plotted to 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-B_Paste.gbr'.
+Plotted to 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-F_Mask.gbr'.
+Plotted to 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-B_Mask.gbr'.
+Plotted to 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-job.gbrjob'.
+Plotted to 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-F_Cu.gbr'.
+Plotted to 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-B_Cu.gbr'.
+Plotted to 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-F_Paste.gbr'.
+Plotted to 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-B_Paste.gbr'.
+Plotted to 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-F_Mask.gbr'.
+Plotted to 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-B_Mask.gbr'.
+Plotted to 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-job.gbrjob'.
+Plotted to 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-F_Cu.gbr'.
+Plotted to 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-B_Cu.gbr'.
+Plotted to 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-F_Paste.gbr'.
+Plotted to 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-B_Paste.gbr'.
+Plotted to 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-F_Mask.gbr'.
+Plotted to 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-B_Mask.gbr'.
+Plotted to 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\raghv\OneDrive\Documents\NOT_GATE\NOT_GATE\Manufacture_FIle\NOT_GATE-job.gbrjob'.
+Info: Done.
+Info: Done.
+Info: Done.
+Info: Done.
+Info: Done.

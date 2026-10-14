@@ -1,0 +1,10 @@
+# KiCad local settings and lock files
+*.kicad_prl
+*.lck
+
+# Editor and autosave history
+.history/
+*-backups/
+
+# Local plotting log (contains machine-specific paths)
+report.txt
